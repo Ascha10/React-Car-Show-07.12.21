@@ -2,6 +2,7 @@
   "name": "03.12.21carsshow",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://Ascha10.github.io/React-Car-Show-07.12.21",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
