@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/03.12.21carsshow/static/css/main.a9113f6f.chunk.css",
-    "main.js": "/03.12.21carsshow/static/js/main.bcc4acd5.chunk.js",
-    "main.js.map": "/03.12.21carsshow/static/js/main.bcc4acd5.chunk.js.map",
-    "runtime-main.js": "/03.12.21carsshow/static/js/runtime-main.800d52da.js",
-    "runtime-main.js.map": "/03.12.21carsshow/static/js/runtime-main.800d52da.js.map",
-    "static/js/2.7c7a6a29.chunk.js": "/03.12.21carsshow/static/js/2.7c7a6a29.chunk.js",
-    "static/js/2.7c7a6a29.chunk.js.map": "/03.12.21carsshow/static/js/2.7c7a6a29.chunk.js.map",
-    "static/js/3.49c2ccad.chunk.js": "/03.12.21carsshow/static/js/3.49c2ccad.chunk.js",
-    "static/js/3.49c2ccad.chunk.js.map": "/03.12.21carsshow/static/js/3.49c2ccad.chunk.js.map",
-    "index.html": "/03.12.21carsshow/index.html",
-    "static/css/main.a9113f6f.chunk.css.map": "/03.12.21carsshow/static/css/main.a9113f6f.chunk.css.map",
-    "static/js/2.7c7a6a29.chunk.js.LICENSE.txt": "/03.12.21carsshow/static/js/2.7c7a6a29.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/03.12.21carsshow/static/media/logo.6ce24c58.svg"
+    "main.css": "/React-Car-Show-07.12.21/static/css/main.a9113f6f.chunk.css",
+    "main.js": "/React-Car-Show-07.12.21/static/js/main.bcc4acd5.chunk.js",
+    "main.js.map": "/React-Car-Show-07.12.21/static/js/main.bcc4acd5.chunk.js.map",
+    "runtime-main.js": "/React-Car-Show-07.12.21/static/js/runtime-main.be05fc25.js",
+    "runtime-main.js.map": "/React-Car-Show-07.12.21/static/js/runtime-main.be05fc25.js.map",
+    "static/js/2.7c7a6a29.chunk.js": "/React-Car-Show-07.12.21/static/js/2.7c7a6a29.chunk.js",
+    "static/js/2.7c7a6a29.chunk.js.map": "/React-Car-Show-07.12.21/static/js/2.7c7a6a29.chunk.js.map",
+    "static/js/3.49c2ccad.chunk.js": "/React-Car-Show-07.12.21/static/js/3.49c2ccad.chunk.js",
+    "static/js/3.49c2ccad.chunk.js.map": "/React-Car-Show-07.12.21/static/js/3.49c2ccad.chunk.js.map",
+    "index.html": "/React-Car-Show-07.12.21/index.html",
+    "static/css/main.a9113f6f.chunk.css.map": "/React-Car-Show-07.12.21/static/css/main.a9113f6f.chunk.css.map",
+    "static/js/2.7c7a6a29.chunk.js.LICENSE.txt": "/React-Car-Show-07.12.21/static/js/2.7c7a6a29.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Car-Show-07.12.21/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.800d52da.js",
+    "static/js/runtime-main.be05fc25.js",
     "static/js/2.7c7a6a29.chunk.js",
     "static/css/main.a9113f6f.chunk.css",
     "static/js/main.bcc4acd5.chunk.js"
