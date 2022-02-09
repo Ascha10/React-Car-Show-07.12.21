@@ -12,6 +12,7 @@ class Car extends Component{
                     <div>🎯 Seats </div>
                     <div>🎯 Year +  </div>
                     <div>🎯 Engine</div>
+                    <div>🎯 Ermi Added</div>
                 </section>
             </article>
         )
