@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Car-Show-07.12.21/static/css/main.a9113f6f.chunk.css",
-    "main.js": "/React-Car-Show-07.12.21/static/js/main.4b0858fe.chunk.js",
-    "main.js.map": "/React-Car-Show-07.12.21/static/js/main.4b0858fe.chunk.js.map",
+    "main.js": "/React-Car-Show-07.12.21/static/js/main.f713977e.chunk.js",
+    "main.js.map": "/React-Car-Show-07.12.21/static/js/main.f713977e.chunk.js.map",
     "runtime-main.js": "/React-Car-Show-07.12.21/static/js/runtime-main.3f63f1e3.js",
     "runtime-main.js.map": "/React-Car-Show-07.12.21/static/js/runtime-main.3f63f1e3.js.map",
     "static/js/2.189958a2.chunk.js": "/React-Car-Show-07.12.21/static/js/2.189958a2.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3f63f1e3.js",
     "static/js/2.189958a2.chunk.js",
     "static/css/main.a9113f6f.chunk.css",
-    "static/js/main.4b0858fe.chunk.js"
+    "static/js/main.f713977e.chunk.js"
   ]
 }
